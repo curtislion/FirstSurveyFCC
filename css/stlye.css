@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+#submit {
+  text-align:center;
+  margin: 20px 50px 0px 270px;
+  display: block;
+  color: white;
+ }
+
